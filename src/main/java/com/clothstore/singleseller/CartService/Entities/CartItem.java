@@ -1,5 +1,5 @@
-package com.clothstore.singleseller.AuthService.Entities;
-
+package com.clothstore.singleseller.CartService.Entities;
+import com.clothstore.singleseller.ProductCatlogService.Entities.Product;
 
 import java.time.LocalDate;
 
