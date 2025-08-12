@@ -1,10 +1,12 @@
-package com.clothstore.singleseller.AuthService.Entities;
+package com.clothstore.singleseller.OrderService.Entities;
 
 
 import java.time.LocalDate;
 
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
+
+import com.clothstore.singleseller.AdminService.Entities.Product;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.clothstore.singleseller.AuthService.Entities;
+package com.clothstore.singleseller.UserService.Entities;
 
 
 import java.time.LocalDate;
